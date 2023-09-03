@@ -1,1 +1,2 @@
 # Co-vid-Visualization-Performing-Analytics
+# The COVID-19 Visualization and Analytics Project aims to create a comprehensive platform for visualizing, analyzing, and interpreting data related to the COVID-19 pandemic. This project leverages data science and visualization techniques to provide valuable insights and information to the public, researchers, policymakers, and healthcare professionals.
